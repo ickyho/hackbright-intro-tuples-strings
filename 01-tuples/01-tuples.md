@@ -37,7 +37,7 @@ Make sure to make a fork of this repository before starting!
 | my_tuple[0]     | 1 |
 | my_tuple[2:3]   | ('kitten',) |
 | my_tuple[1:5]   | (2, 'kitten', 4, 'five')|
-| my_tuple[1:10]  | (2, 'kitten', 4, 'five', 6, 7 |
+| my_tuple[1:10]  | (2, 'kitten', 4, 'five', 6, 7) |
 | my_tuple[-1]    | 7 |
 | my_tuple[-1:-4] | () |
 | my_tuple[-4:]   | 4 |
